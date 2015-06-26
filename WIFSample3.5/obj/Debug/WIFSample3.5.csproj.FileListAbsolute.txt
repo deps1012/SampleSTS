@@ -1,0 +1,7 @@
+D:\Code\WIFSampleAccenture\WIFSample3.5\bin\WIFSample3.5.dll.config
+D:\Code\WIFSampleAccenture\WIFSample3.5\bin\WIFSample3.5.dll
+D:\Code\WIFSampleAccenture\WIFSample3.5\bin\WIFSample3.5.pdb
+D:\Code\WIFSampleAccenture\WIFSample3.5\bin\Microsoft.IdentityModel.dll
+D:\Code\WIFSampleAccenture\WIFSample3.5\obj\Debug\WIFSample3.5.dll
+D:\Code\WIFSampleAccenture\WIFSample3.5\obj\Debug\WIFSample3.5.pdb
+D:\Code\WIFSampleAccenture\WIFSample3.5\obj\Debug\WIFSample3.5.csprojResolveAssemblyReference.cache
